@@ -1,0 +1,45 @@
+
+ul
+{
+  list-style-type: disc;
+      -margin-before: 1em;
+      -margin-after: 1em;
+      -webkit-padding-start: 40px;
+}
+.début
+{
+font-weight: bold;
+}
+p
+{
+line-height: 1.4;
+font-size: 16px;
+}
+.opacité
+{
+opacity: 0.6;
+}
+.style
+{
+font-style: italic;
+}
+body
+{
+  background-color: #EEEEEE;
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    padding: 0 10px;
+}
+}
+.alignement
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+.button
+{
+  background-color: #magenta;
+}
